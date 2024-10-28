@@ -1,1 +1,1 @@
-# Power-BI
+The executive dashboard project features a homepage displaying key metrics like revenue, orders, and profit trends, complemented by KPI cards and a top products matrix. A geographical map visualizes order distribution by country, while detailed product and customer pages provide in-depth analyses with dynamic filtering options. This comprehensive tool enhances decision-making and strategic insights for executives.# Power-BI
